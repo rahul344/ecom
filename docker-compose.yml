@@ -21,7 +21,7 @@ services:
           environment:
             MYSQL_ROOT_PASSWORD: root
             MYSQL_DATABASE: database
-            MYSQL_USER: edureka
-            MYSQL_PASSWORD: admin
+            MYSQL_USER: rahul
+            MYSQL_PASSWORD: redhat
           ports:
            - 6033:3306
